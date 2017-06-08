@@ -1,0 +1,3 @@
+# git-repo
+creating first repository
+editing this for test. Will be fun using Git yehhhh.....
